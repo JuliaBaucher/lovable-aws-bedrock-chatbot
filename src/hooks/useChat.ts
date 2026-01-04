@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { Message, MessageRole } from "@/components/ChatMessage";
 
-const API_ENDPOINT = "https://mjnq8gk6vh.execute-api.eu-north-1.amazonaws.com/prod/chat";
+const API_ENDPOINT = "https://by02teld6l.execute-api.eu-central-1.amazonaws.com/prod/chat";
 const STORAGE_KEY = "julia-cv-chat-history";
 
 function generateId(): string {
