@@ -1,4 +1,5 @@
-# Welcome to your Lovable project
+# AI CV Assistant built with Lovable and AWS Bedrock
+
 
 ## Project info
 
