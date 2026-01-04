@@ -134,7 +134,3 @@ The Lambda function:
 - Clean separation of frontend and AI backend
 - Production-ready AWS patterns
 
-
-
-
-
