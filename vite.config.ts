@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/julia-s-ai-assistant/",
+  base: "/lovable-aws-bedrock-chatbot/",
   server: {
     host: "::",
     port: 8080,
