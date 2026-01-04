@@ -64,7 +64,7 @@ export function TechArchitecture() {
 
       <div className="mt-4 rounded-lg bg-secondary/50 p-3">
         <code className="text-xs text-muted-foreground font-mono">
-          POST https://mjnq8gk6vh.execute-api.eu-north-1.amazonaws.com/prod/chat
+          POST https://https://by02teld6l.execute-api.eu-central-1.amazonaws.com/prod/chat
         </code>
       </div>
     </div>
