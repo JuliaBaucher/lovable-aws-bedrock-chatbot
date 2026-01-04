@@ -46,7 +46,7 @@ POST https://by02teld6l.execute-api.eu-central-1.amazonaws.com/prod/chat
 
 
 Payload example:
-```json
+json
 {
   "message": "Tell me about Julia's ML experience"
 }
